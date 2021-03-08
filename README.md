@@ -4,7 +4,7 @@
 
 Instead of <b>document.getElementsByTagName("body")[0].append(createElement("main"));</b>   </br></br> you can do <b> main.create(inBody);</b>
 
-or nest elements right awaylike this: 
+or nest elements rightaway like this: 
 
 <b> main.create(inBody, article.create(inParent, h1.create(inParent, "Hello world))); </b> </br> and you will get:
 
