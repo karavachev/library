@@ -1,4 +1,4 @@
-# Simple and very limited way of generating nested HTML elements with JS
+# Simple and very limited way of generating nested HTML elements with JS https://codepen.io/karavachev/pen/gOLBGNQ
 
 <b>Example:</b>
 
